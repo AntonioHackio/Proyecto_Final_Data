@@ -320,9 +320,10 @@ python sql_loader.py
 ## 📞 Contacto y Mantenimiento
 
 ### Equipo del Proyecto
+
+Antonio Martínez Urbán como:
 - **Data Engineer**: Responsable del ETL y mantimiento de datos
 - **Data Analyst**: Desarrollo de dashboards y análisis
-- **Business Stakeholder**: Definición de KPIs y requirements
 
 ### Actualización de Datos
 - **Frecuencia**: Semanal/Mensual (por definir con negocio)
