@@ -6,16 +6,6 @@ Este proyecto tiene como objetivo analizar el embudo de conversión de leads edu
 
 ---
 
-## 🎯 Objetivo del Proyecto
-
-El principal objetivo es proporcionar una visión clara y accionable sobre:
-
-- La **efectividad de las fuentes de leads**.
-- La **eficiencia del embudo de conversión**.
-- La **rentabilidad y popularidad de los cursos**.
-
-Esto permite a los equipos de marketing y ventas identificar oportunidades de mejora y optimizar sus estrategias para impulsar el crecimiento y los ingresos.
-
 ## ✨ Componentes Clave
 
 1. **Pipeline ETL (Extracción, Transformación, Carga):**
@@ -30,8 +20,9 @@ Esto permite a los equipos de marketing y ventas identificar oportunidades de me
    - Consolida los Indicadores Clave de Rendimiento (KPIs) más relevantes en una interfaz visual e intuitiva.
    - Facilita la monitorización continua y la exploración dinámica de los datos por parte de los usuarios de negocio.
 
-## 📂 Estructura del Repositorio
+# Estructura del Proyecto
 
+```
 📦 Proyecto
 │
 ├── 📁 .venv/
@@ -87,6 +78,7 @@ Esto permite a los equipos de marketing y ventas identificar oportunidades de me
 ├── 📄 credenciales.json
 ├── 📄 README.md
 └── 📄 requirements.txt
+```
 
 ## 💻 Tecnologías y Librerías
 
