@@ -88,7 +88,7 @@ Este proyecto tiene como objetivo analizar el embudo de conversión de leads edu
   - `matplotlib`
   - `seaborn`
   - `plotly`  
-- **Dveaber:**  
+- **Dveaber**  
 - **Tableau Desktop**
 
 ## 📈 Métricas Clave (KPIs)
